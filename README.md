@@ -14,7 +14,7 @@ SSM整合练习二  分页 增删改查
 -->
 CRUD
 
-####1.建立数据库
+#### 1.建立数据库
 ``` sql
 CREATE TABLE `category_` (
   `id` int(11) NOT NULL AUTO_INCREMENT,
